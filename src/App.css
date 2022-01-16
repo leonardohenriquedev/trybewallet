@@ -377,36 +377,35 @@ td {
 
 .id-column {
   /* border: 1px solid black; */
-  width: 20px;
+  width: 1%;
 }
 
 .value-column {
-  width: 80px;
+  width: 8%;
 }
 
 .description-column {
-  width: 250px;
+  width: 18%;
 }
 
 .payment-column {
-  /* border: 1px solid black; */
-  width: 135px;
+  width: 16%;
 }
 
 .tag-column {
-  width: 100px;
+  width: 8%;
 }
 
 .cambio-column {
-  width: 80px;
+  width: 6%;
 }
 
 .converted-column {
-  width: 138px;
+  width: 10%;
 }
 
 .buttons-column {
-  width: 120px;
+  width: 15%;
 }
 
 .button-edit-table {
